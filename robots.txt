@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-b7ntps.privatetalks.online/sitemap.xml
